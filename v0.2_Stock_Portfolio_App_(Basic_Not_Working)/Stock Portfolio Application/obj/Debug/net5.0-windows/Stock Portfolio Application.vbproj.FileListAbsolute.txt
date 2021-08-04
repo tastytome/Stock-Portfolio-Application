@@ -1,0 +1,34 @@
+D:\Programming\Stock Portfolio Application\Stock Portfolio Application\bin\Debug\net5.0-windows\Stock Portfolio Application.exe
+D:\Programming\Stock Portfolio Application\Stock Portfolio Application\bin\Debug\net5.0-windows\Stock Portfolio Application.deps.json
+D:\Programming\Stock Portfolio Application\Stock Portfolio Application\bin\Debug\net5.0-windows\Stock Portfolio Application.runtimeconfig.json
+D:\Programming\Stock Portfolio Application\Stock Portfolio Application\bin\Debug\net5.0-windows\Stock Portfolio Application.runtimeconfig.dev.json
+D:\Programming\Stock Portfolio Application\Stock Portfolio Application\bin\Debug\net5.0-windows\Stock Portfolio Application.dll
+D:\Programming\Stock Portfolio Application\Stock Portfolio Application\bin\Debug\net5.0-windows\ref\Stock Portfolio Application.dll
+D:\Programming\Stock Portfolio Application\Stock Portfolio Application\bin\Debug\net5.0-windows\Stock Portfolio Application.pdb
+D:\Programming\Stock Portfolio Application\Stock Portfolio Application\obj\Debug\net5.0-windows\Stock Portfolio Application.vbprojAssemblyReference.cache
+D:\Programming\Stock Portfolio Application\Stock Portfolio Application\obj\Debug\net5.0-windows\Stock_Portfolio_Application.Form1.resources
+D:\Programming\Stock Portfolio Application\Stock Portfolio Application\obj\Debug\net5.0-windows\Stock_Portfolio_Application.Form2.resources
+D:\Programming\Stock Portfolio Application\Stock Portfolio Application\obj\Debug\net5.0-windows\Stock_Portfolio_Application.Form3.resources
+D:\Programming\Stock Portfolio Application\Stock Portfolio Application\obj\Debug\net5.0-windows\Stock_Portfolio_Application.Resources.resources
+D:\Programming\Stock Portfolio Application\Stock Portfolio Application\obj\Debug\net5.0-windows\Stock Portfolio Application.vbproj.GenerateResource.cache
+D:\Programming\Stock Portfolio Application\Stock Portfolio Application\obj\Debug\net5.0-windows\Stock Portfolio Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Stock Portfolio Application\Stock Portfolio Application\obj\Debug\net5.0-windows\Stock Portfolio Application.AssemblyInfoInputs.cache
+D:\Programming\Stock Portfolio Application\Stock Portfolio Application\obj\Debug\net5.0-windows\Stock Portfolio Application.AssemblyInfo.vb
+D:\Programming\Stock Portfolio Application\Stock Portfolio Application\obj\Debug\net5.0-windows\Stock Portfolio Application.vbproj.CoreCompileInputs.cache
+D:\Programming\Stock Portfolio Application\Stock Portfolio Application\obj\Debug\net5.0-windows\Stock Portfolio Application.dll
+D:\Programming\Stock Portfolio Application\Stock Portfolio Application\obj\Debug\net5.0-windows\ref\Stock Portfolio Application.dll
+D:\Programming\Stock Portfolio Application\Stock Portfolio Application\obj\Debug\net5.0-windows\Stock Portfolio Application.pdb
+D:\Programming\Stock Portfolio Application\Stock Portfolio Application\obj\Debug\net5.0-windows\Stock Portfolio Application.genruntimeconfig.cache
+D:\Programming\SAT Documents\Stock Portfolio Application\Stock Portfolio Application\obj\Debug\net5.0-windows\Stock Portfolio Application.vbprojAssemblyReference.cache
+D:\Programming\SAT Documents\Stock Portfolio Application\Stock Portfolio Application\obj\Debug\net5.0-windows\Stock_Portfolio_Application.Form1.resources
+D:\Programming\SAT Documents\Stock Portfolio Application\Stock Portfolio Application\obj\Debug\net5.0-windows\Stock_Portfolio_Application.Form2.resources
+D:\Programming\SAT Documents\Stock Portfolio Application\Stock Portfolio Application\obj\Debug\net5.0-windows\Stock_Portfolio_Application.Form3.resources
+D:\Programming\SAT Documents\Stock Portfolio Application\Stock Portfolio Application\obj\Debug\net5.0-windows\Stock_Portfolio_Application.Resources.resources
+D:\Programming\SAT Documents\Stock Portfolio Application\Stock Portfolio Application\obj\Debug\net5.0-windows\Stock Portfolio Application.vbproj.GenerateResource.cache
+D:\Programming\SAT Documents\Stock Portfolio Application\Stock Portfolio Application\obj\Debug\net5.0-windows\Stock Portfolio Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\SAT Documents\Stock Portfolio Application\Stock Portfolio Application\obj\Debug\net5.0-windows\Stock Portfolio Application.AssemblyInfoInputs.cache
+D:\Programming\SAT Documents\Stock Portfolio Application\Stock Portfolio Application\obj\Debug\net5.0-windows\Stock Portfolio Application.AssemblyInfo.vb
+D:\Programming\SAT Documents\Stock Portfolio Application\Stock Portfolio Application\obj\Debug\net5.0-windows\Stock Portfolio Application.vbproj.CoreCompileInputs.cache
+D:\Programming\SAT Documents\Stock Portfolio Application\Stock Portfolio Application\obj\Debug\net5.0-windows\Stock Portfolio Application.dll
+D:\Programming\SAT Documents\Stock Portfolio Application\Stock Portfolio Application\obj\Debug\net5.0-windows\ref\Stock Portfolio Application.dll
+D:\Programming\SAT Documents\Stock Portfolio Application\Stock Portfolio Application\obj\Debug\net5.0-windows\Stock Portfolio Application.pdb
