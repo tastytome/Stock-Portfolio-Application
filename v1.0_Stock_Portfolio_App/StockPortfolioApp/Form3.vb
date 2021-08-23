@@ -157,8 +157,12 @@ Public Class Form3
         '--comment if positive or negative
         If result > 0 Then
             txtPerformance.Text = "Positive Daily Change"
+            txtPerformance.BackColor = Color.Green
+            txtPerformance.ForeColor = Color.White
         Else
             txtPerformance.Text = "Negative Daily Change"
+            txtPerformance.BackColor = Color.Red
+            txtPerformance.ForeColor = Color.White
         End If
 
     End Sub
