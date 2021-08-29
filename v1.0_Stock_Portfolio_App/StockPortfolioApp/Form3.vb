@@ -12,7 +12,7 @@ Public Class Form3
 
     Private Sub Form3_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         '--example tickers for testing
-        txtTickers.Text = "DHHF.AX,VTS.AX,NDQ.AX,VAS.AX,TSLA,AAPL,GOOG,ETH-USD,BTC-USD,MSFT"
+        txtTickers.Text = "DHHF.AX,VTS.AX,NDQ.AX,VAS.AX"
         '--add columns To listview
         lsvStocks.Columns.Add("Symbol", 60, HorizontalAlignment.Left) 'Column 0
         lsvStocks.Columns.Add("Price", 100, HorizontalAlignment.Left) 'Column 1
